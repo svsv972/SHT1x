@@ -1,5 +1,8 @@
-SHT1x Temperature / Humidity Sensor Library for Arduino
+SHT1x Temperature / Humidity Sensor Library for Spark Core
 =======================================================
+
+Ported to Spark Core by Anurag Chugh (https://github.com/lithiumhead) on 2014-10-15
+
 Copyright 2009 Jonathan Oxer jon@oxer.com.au / http://www.practicalarduino.com  
 Copyright 2008 Maurice Ribble ribblem@yahoo.com / http://www.glacialwanderer.com
 
